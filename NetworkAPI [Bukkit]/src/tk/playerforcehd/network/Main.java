@@ -16,7 +16,7 @@ import tk.playerforcehd.network.connection.NetworkManager;
 public class Main extends JavaPlugin {
 
 	/**
-	 * The main instance of the plugin
+	 * The main instance of the plugin!
 	 */
 	private Main thePlugin;
 	
